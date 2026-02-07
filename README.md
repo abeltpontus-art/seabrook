@@ -48,3 +48,4 @@ src/
   components/         # Reusable UI components
   data/               # Property and team data (easy editing)
   styles/             # Global styles
+<!-- trigger vercel redeploy -->
